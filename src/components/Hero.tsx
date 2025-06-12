@@ -146,7 +146,7 @@ const Hero = () => {
             <div className="w-32 h-32 mx-auto rounded-full bg-gradient-to-r from-blue-500 to-purple-500 p-1 shadow-xl shadow-blue-200 dark:shadow-blue-900">
               <div className="w-full h-full rounded-full bg-gray-200 dark:bg-gray-700 flex items-center justify-center text-4xl font-bold text-gray-600 dark:text-gray-300 overflow-hidden">
                 <img
-                  src="/myportfolio/src/components/vk.jpg"
+                  src="./myportfolio/src/components/vk.jpg"
                   alt="Vinay Kumar"
                   className="w-full h-full rounded-full object-cover"
                 />
